@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coderetreat", "coderetreat\coderetreat.csproj", "{D246C04A-990D-495F-9FD7-DC5A5E03D71B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coderetreat.Tests", "coderetreat.Tests\coderetreat.Tests.csproj", "{ABF837EA-000A-498E-9BD5-8AE039FC46F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D246C04A-990D-495F-9FD7-DC5A5E03D71B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D246C04A-990D-495F-9FD7-DC5A5E03D71B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D246C04A-990D-495F-9FD7-DC5A5E03D71B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D246C04A-990D-495F-9FD7-DC5A5E03D71B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABF837EA-000A-498E-9BD5-8AE039FC46F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF837EA-000A-498E-9BD5-8AE039FC46F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF837EA-000A-498E-9BD5-8AE039FC46F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF837EA-000A-498E-9BD5-8AE039FC46F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
