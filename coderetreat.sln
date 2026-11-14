@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coderetreat", "coderetreat\coderetreat.csproj", "{D246C04A-990D-495F-9FD7-DC5A5E03D71B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coderetreat", "coderetreat\coderetreat\coderetreat.csproj", "{D246C04A-990D-495F-9FD7-DC5A5E03D71B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coderetreat.Tests", "coderetreat.Tests\coderetreat.Tests.csproj", "{ABF837EA-000A-498E-9BD5-8AE039FC46F9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coderetreat.Tests", "coderetreat\coderetreat.Tests\coderetreat.Tests.csproj", "{ABF837EA-000A-498E-9BD5-8AE039FC46F9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
